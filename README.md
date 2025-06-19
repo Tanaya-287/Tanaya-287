@@ -7,7 +7,7 @@
 ---
 
 ### 💫 About Me
-I'm a motivated and curious developer with a passion for building full-stack web applications and solving real-world problems with technology. I enjoy working with Java-based web applications, databases, and clean UI/UX designs.
+I'm a motivated and curious developer with a passion for building full-stack web applications and solving real-world problems with technology. I enjoy working with Java-based web applications, databases.
 
 - 🎯 Currently working on: Enhancing my full-stack skills
 - 🌐 Interested in: Web Dev, Machine Learning, SQL Projects
