@@ -47,11 +47,20 @@ I'm a motivated and curious developer with a passion for building full-stack web
 
 ---
 
-### 🤝 Let's Connect!
+### 🌐 Connect with me:
 
-- 📧 Email: your.email@example.com _(replace with your real email)_
-- 💼 LinkedIn: [Your LinkedIn](#)
-- 🌐 Portfolio: Coming soon...
+<p align="left">
+  <a href="https://www.linkedin.com/in/tanaya-patil-33555a270/" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://www.instagram.com" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram" height="30" />
+  </a>
+  <a href="mailto:tanupatil287@gmail.com.com">
+    <img align="center" src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" height="30" />
+  </a>
+</p>
+
 
 ---
 
