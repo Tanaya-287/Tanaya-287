@@ -34,8 +34,6 @@ I'm a motivated and curious developer with a passion for building full-stack web
 | ⏱️ **[Timer Web App](#)** | Stylish and functional timer with Start, Stop, Reset |
 | 📊 **[AdventureWorks SQL](#)** | Complex SQL queries and database analysis tasks |
 
-> 🔗 Add the actual project repo links above when you upload them
-
 ---
 
 ### 📈 GitHub Stats
