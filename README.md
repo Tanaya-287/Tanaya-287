@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Tanaya Patil!
 
-<!--
-**Tanaya-287/Tanaya-287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a tech enthusiast passionate about building web apps, solving data problems, and constantly learning.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
+- 💻 Java | JSP | Servlets
+- 🌐 HTML | CSS | JavaScript
+- 🛢️ MySQL | AdventureWorks DB
+- 🔧 Git | VS Code | IntelliJ | SSMS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+- 🌱 **Plant Disease Detection using CNN**
+- 🔐 **Login/Register System using JSP & Servlets**
+- 📊 **AdventureWorks SQL Tasks**
+
+## 📫 Let's Connect
+- 📧 Email: tanupatil287@gmail.com
+- 💼 [GitHub](https://github.com/Tanaya-287)
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
