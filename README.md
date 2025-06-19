@@ -9,8 +9,9 @@
 - 🔧 Git | VS Code | IntelliJ | SSMS
 
 ## 🧠 Projects
-- 🌱 **Plant Disease Detection using CNN**
-- 🔐 **Login/Register System using JSP & Servlets**
+- ⏱️ **Timer Web App**
+- 🌍 **currency converter**
+- 🔐 **Review System Backend**
 - 📊 **AdventureWorks SQL Tasks**
 
 ## 📫 Let's Connect
